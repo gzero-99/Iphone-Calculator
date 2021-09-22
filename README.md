@@ -3,9 +3,7 @@ Still working on with Kotlin.
 I made calculator application works like original I-phone calculator.
 
 This is real i-phone calculator.
-![iphone_calculator](https://user-images.githubusercontent.com/70897603/134314104-71b7381a-eeb8-43b7-998f-283b90f32560.gif)
-
-
+![iphone_calculator](https://user-images.githubusercontent.com/70897603/134314492-d90275f6-ed14-47a9-b560-79d8218d8442.gif)
 
 
 And this is what i made.
